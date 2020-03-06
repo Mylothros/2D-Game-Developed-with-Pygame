@@ -1,2 +1,2 @@
-# 2D-Game-Developed-with-Pygame
+# 2D Game Developed with Pygame
 
